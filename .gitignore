@@ -11,7 +11,7 @@
 /[Uu]ser[Ss]ettings/
 
 # Force include scene hierarchy
-+!/[Ll]ibrary/LastSceneManagerSetup.txt
+!/[Ll]ibrary/LastSceneManagerSetup.txt
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
